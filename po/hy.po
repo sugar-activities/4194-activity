@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-24 00:31-0500\n"
+"PO-Revision-Date: 2013-04-23 17:55+0200\n"
+"Last-Translator: anushnur <anush.mkrtchyan@ca1492.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Get IA Books"
+msgstr "Գտնել Գրքեր Համացանցի արխիվից"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download thousands of free e-books in PDF, DejaVu, and EPUB formats from the "
+"Internet Archive!"
+msgstr ""
+"Համացանցի արխիվից ներբեռնիր հազարավոր անվճար էլեկտրոնային գրքեր PDF, DejaVu, "
+"և EPUB ձևաչափերով"
+
+#: GetIABooksActivity.py:77 GetIABooksActivity.py:266
+msgid "Get Book"
+msgstr "Ստանալ գիրք"
+
+#: GetIABooksActivity.py:163
+msgid "Enter words from the Author or Title to begin search"
+msgstr ""
+"Մուտքագրեք հեղինակի անվան կամ գրքի վերնագրի մի մասը` որոնումն սկսելու համար:"
+
+#: GetIABooksActivity.py:187
+msgid "Title"
+msgstr "Վերնագիր"
+
+#: GetIABooksActivity.py:192 GetIABooksActivity.py:324
+#: GetIABooksActivity.py:509
+msgid "Volume"
+msgstr "Հատոր"
+
+#: GetIABooksActivity.py:200
+msgid "Author"
+msgstr "Հեղինակ"
+
+#: GetIABooksActivity.py:205 GetIABooksActivity.py:334
+msgid "Language"
+msgstr "Լեզու"
+
+#: GetIABooksActivity.py:240
+msgid "Books"
+msgstr "Գրքեր"
+
+#: GetIABooksActivity.py:332
+msgid "Subject"
+msgstr "Թեմա"
+
+#: GetIABooksActivity.py:333
+msgid "Publisher"
+msgstr "Հրատարակիչ"
+
+# URL - Համընդհանուր ռեսուրսների որոնիչ
+#: GetIABooksActivity.py:347
+msgid "Download URL"
+msgstr "Ներբեռնել URL"
+
+#: GetIABooksActivity.py:360
+msgid "Performing lookup, please wait"
+msgstr "Կատարվում է որոնումը, խնդրվում է սպասել..."
+
+#: GetIABooksActivity.py:365 GetIABooksActivity.py:404
+#: GetIABooksActivity.py:418 GetIABooksActivity.py:456
+#: GetIABooksActivity.py:496
+msgid "Error"
+msgstr "Ձախողում"
+
+#: GetIABooksActivity.py:365
+msgid "You must enter at least one search word."
+msgstr "Պետք է մուտքագրվի նվազագույնը որոնման մեկ բառ:"
+
+#: GetIABooksActivity.py:404
+msgid "Connection timed out for CSV: "
+msgstr "Կապը ժամասպառվել է CSV համար. "
+
+#: GetIABooksActivity.py:418
+msgid "Error getting CSV"
+msgstr "CSV ստացման ձախողում"
+
+#: GetIABooksActivity.py:432
+msgid "Finished"
+msgstr "Ավարտված է"
+
+#: GetIABooksActivity.py:456
+msgid "Connection timed out for "
+msgstr "Կապի ժամանակը սպառվեց "
+
+#: GetIABooksActivity.py:496
+msgid "Could not download "
+msgstr "Չհաջողվեց ներբեռնել "
+
+#: GetIABooksActivity.py:496
+msgid " path in catalog is incorrect.  "
+msgstr " Գրացուցակում որոնման հղումը/ուղին ճշգրիտ չէ  "
+
+#: GetIABooksActivity.py:534
+msgid "Success"
+msgstr "Հաջողում"
+
+#: GetIABooksActivity.py:534
+msgid " added to Journal."
+msgstr " ավելացվեց Մատյանում:"

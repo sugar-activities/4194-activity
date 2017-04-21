@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-24 00:31-0500\n"
+"PO-Revision-Date: 2011-11-26 03:01+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Get IA Books"
+msgstr "Lấy sách IA"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download thousands of free e-books in PDF, DejaVu, and EPUB formats from the "
+"Internet Archive!"
+msgstr ""
+
+#: GetIABooksActivity.py:77 GetIABooksActivity.py:266
+msgid "Get Book"
+msgstr "Lấy sách"
+
+#: GetIABooksActivity.py:163
+msgid "Enter words from the Author or Title to begin search"
+msgstr "Gõ từ của Tác giả hay Tên sách để bắt đầu tìm kiếm"
+
+#: GetIABooksActivity.py:187
+msgid "Title"
+msgstr "Tên sách"
+
+#: GetIABooksActivity.py:192 GetIABooksActivity.py:324
+#: GetIABooksActivity.py:509
+msgid "Volume"
+msgstr "Tập"
+
+#: GetIABooksActivity.py:200
+msgid "Author"
+msgstr "Tác giả"
+
+#: GetIABooksActivity.py:205 GetIABooksActivity.py:334
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: GetIABooksActivity.py:240
+msgid "Books"
+msgstr "Sách"
+
+#: GetIABooksActivity.py:332
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: GetIABooksActivity.py:333
+msgid "Publisher"
+msgstr "Nhà xuất bản"
+
+#: GetIABooksActivity.py:347
+msgid "Download URL"
+msgstr "Tải xuống URL"
+
+#: GetIABooksActivity.py:360
+msgid "Performing lookup, please wait"
+msgstr "Đang tra tìm, hãy đợi"
+
+#: GetIABooksActivity.py:365 GetIABooksActivity.py:404
+#: GetIABooksActivity.py:418 GetIABooksActivity.py:456
+#: GetIABooksActivity.py:496
+msgid "Error"
+msgstr "Lỗi"
+
+#: GetIABooksActivity.py:365
+msgid "You must enter at least one search word."
+msgstr "Phải gõ ít nhất một từ cần tìm"
+
+#: GetIABooksActivity.py:404
+msgid "Connection timed out for CSV: "
+msgstr "Kết nối đã quá hạn cho CSV: "
+
+#: GetIABooksActivity.py:418
+msgid "Error getting CSV"
+msgstr "Lỗi lấy CSV"
+
+#: GetIABooksActivity.py:432
+msgid "Finished"
+msgstr "Hoàn tất"
+
+#: GetIABooksActivity.py:456
+msgid "Connection timed out for "
+msgstr "Kết nối đã quá hạn trong "
+
+#: GetIABooksActivity.py:496
+msgid "Could not download "
+msgstr "Không thể tải về "
+
+#: GetIABooksActivity.py:496
+msgid " path in catalog is incorrect.  "
+msgstr " đường dẫn không đúng trong phân loại.  "
+
+#: GetIABooksActivity.py:534
+msgid "Success"
+msgstr "Thành công"
+
+#: GetIABooksActivity.py:534
+msgid " added to Journal."
+msgstr " được thêm vào Nhật ký."

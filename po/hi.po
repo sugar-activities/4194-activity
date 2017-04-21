@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-24 00:31-0500\n"
+"PO-Revision-Date: 2010-03-22 23:27+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.3\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Get IA Books"
+msgstr "आईए पुस्तकें लाएँ"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Download thousands of free e-books in PDF, DejaVu, and EPUB formats from the "
+"Internet Archive!"
+msgstr ""
+
+#: GetIABooksActivity.py:77 GetIABooksActivity.py:266
+msgid "Get Book"
+msgstr "पुस्तक लाएँ"
+
+#: GetIABooksActivity.py:163
+msgid "Enter words from the Author or Title to begin search"
+msgstr "ढूंढने के लिए लेखक या पुस्तक का नाम भरें"
+
+#: GetIABooksActivity.py:187
+msgid "Title"
+msgstr "शीर्षक"
+
+#: GetIABooksActivity.py:192 GetIABooksActivity.py:324
+#: GetIABooksActivity.py:509
+msgid "Volume"
+msgstr "संस्करण"
+
+#: GetIABooksActivity.py:200
+msgid "Author"
+msgstr "लेखक"
+
+#: GetIABooksActivity.py:205 GetIABooksActivity.py:334
+msgid "Language"
+msgstr "भाषा"
+
+#: GetIABooksActivity.py:240
+msgid "Books"
+msgstr "पुस्तकें"
+
+#: GetIABooksActivity.py:332
+msgid "Subject"
+msgstr "विषय"
+
+#: GetIABooksActivity.py:333
+msgid "Publisher"
+msgstr "प्रकाशक"
+
+#: GetIABooksActivity.py:347
+msgid "Download URL"
+msgstr "डाउनलोड यूआरएल"
+
+#: GetIABooksActivity.py:360
+msgid "Performing lookup, please wait"
+msgstr "देखा जा रहा है, कृपया प्रतीक्षा करें"
+
+#: GetIABooksActivity.py:365 GetIABooksActivity.py:404
+#: GetIABooksActivity.py:418 GetIABooksActivity.py:456
+#: GetIABooksActivity.py:496
+msgid "Error"
+msgstr "त्रुटि"
+
+#: GetIABooksActivity.py:365
+msgid "You must enter at least one search word."
+msgstr "आपको कम से कम एक खोज शब्द भरना होगा."
+
+#: GetIABooksActivity.py:404
+msgid "Connection timed out for CSV: "
+msgstr "सीएसवी से कनेक्शन टाइमआउट हो गया: "
+
+#: GetIABooksActivity.py:418
+msgid "Error getting CSV"
+msgstr "CSV प्राप्त करने में त्रुटि"
+
+#: GetIABooksActivity.py:432
+msgid "Finished"
+msgstr "सम्पन्न"
+
+#: GetIABooksActivity.py:456
+msgid "Connection timed out for "
+msgstr "के लिए कनेक्शन टाइमआउट हो गया "
+
+#: GetIABooksActivity.py:496
+msgid "Could not download "
+msgstr "डाउनलोड नहीं कर सका "
+
+#: GetIABooksActivity.py:496
+msgid " path in catalog is incorrect.  "
+msgstr " कैटलॉग में पथ गलत है.  "
+
+#: GetIABooksActivity.py:534
+msgid "Success"
+msgstr "सफल"
+
+#: GetIABooksActivity.py:534
+msgid " added to Journal."
+msgstr " दैनिकी में जोड़ा गया."
